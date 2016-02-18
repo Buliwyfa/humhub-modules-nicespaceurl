@@ -17,4 +17,4 @@ __Author website:__ [https://github.com/tobciu](https://github.com/tobciu)
 
 ## Usage
 
-only install and activate the module    
+checkout this repository in your `humhub/protected/modules/` folder, rename it to `nicespaceurl` and activate the module in the administration
