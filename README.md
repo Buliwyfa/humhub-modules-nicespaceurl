@@ -16,5 +16,6 @@ __Author:__ tobciu
 __Author website:__ [https://github.com/tobciu](https://github.com/tobciu)    
 
 ## Usage
+- Enable [url rewriting](https://www.humhub.org/docs/guide-admin-installation.html#enable-url-rewriting-optional)
+- Checkout this repository in your `humhub/protected/modules/` folder, rename it to `nicespaceurl` and activate the module in the administration
 
-checkout this repository in your `humhub/protected/modules/` folder, rename it to `nicespaceurl` and activate the module in the administration
